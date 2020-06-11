@@ -1,0 +1,52 @@
+[
+  {
+    "libraryIdentifier" : "dc7ef449fcda866b1237c1104514fe20",
+    "format" : "model",
+    "displayName" : "Sun_1_1391000.usdz"
+  },
+  {
+    "libraryIdentifier" : "9815d8b5e39d1bf377805b724ac7673d",
+    "format" : "model",
+    "displayName" : "Mercury_1_4878.usdz"
+  },
+  {
+    "libraryIdentifier" : "f2d5bd2972d76e7d2008d5ceca03f33f",
+    "format" : "model",
+    "displayName" : "Venus(surface)_1_12103.usdz"
+  },
+  {
+    "libraryIdentifier" : "7cf8bc81634ec645985e23940c05cac8",
+    "format" : "model",
+    "displayName" : "EarthClouds_1_12756.usdz"
+  },
+  {
+    "libraryIdentifier" : "ee1ddd83793e5f67ff8cc789fb83af22",
+    "format" : "model",
+    "displayName" : "Moon_1_3474.usdz"
+  },
+  {
+    "libraryIdentifier" : "18cf3c49d04432888d9e97eadb374754",
+    "format" : "model",
+    "displayName" : "Mars_1_6792.usdz"
+  },
+  {
+    "libraryIdentifier" : "e0092d401a7cbe67018c9f21a969a94c",
+    "format" : "model",
+    "displayName" : "Jupiter_1_142984.usdz"
+  },
+  {
+    "libraryIdentifier" : "963f8f4f760e577341f5ccbbd3bd3db9",
+    "format" : "model",
+    "displayName" : "Saturn_1_120536.usdz"
+  },
+  {
+    "libraryIdentifier" : "8d4a45d09041830af069c8896ce2b205",
+    "format" : "model",
+    "displayName" : "Uranus_1_51118.usdz"
+  },
+  {
+    "libraryIdentifier" : "bbbca76f2bb7c09857d7d076bfb77af5",
+    "format" : "model",
+    "displayName" : "Neptune_1_49528.usdz"
+  }
+]

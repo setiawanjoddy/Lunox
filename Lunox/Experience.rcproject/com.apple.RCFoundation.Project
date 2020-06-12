@@ -33,19 +33,19 @@
                                         "configuration" : {
                                           "angularCoefficient" : 1,
                                           "direction" : "clockwise",
-                                          "duration" : 10,
+                                          "duration" : 600,
                                           "linearCoefficient" : 1,
                                           "orbitalAxis" : [
-                                            0,
-                                            -0.99997025728225708,
-                                            -0.0077077583409845829
+                                            2.6300616809749044e-05,
+                                            -0.99819189310073853,
+                                            -0.060107875615358353
                                           ],
-                                          "orientToPath" : false,
-                                          "pivotTarget" : "B329118C-4D16-4F99-A31D-4E38FF78C6E6",
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
                                           "respectPhysics" : false,
-                                          "rotations" : 1,
+                                          "rotations" : 2,
                                           "target" : [
-
+                                            "14CF3300-C4CE-4008-AFE3-FA85AD840A11"
                                           ]
                                         },
                                         "name" : {
@@ -69,10 +69,10 @@
                                             0
                                           ],
                                           "direction" : "clockwise",
-                                          "duration" : 10,
-                                          "iterations" : 1,
+                                          "duration" : 600,
+                                          "iterations" : 50,
                                           "target" : [
-
+                                            "14CF3300-C4CE-4008-AFE3-FA85AD840A11"
                                           ]
                                         },
                                         "name" : {
@@ -92,26 +92,53 @@
                                         "configuration" : {
                                           "angularCoefficient" : 1,
                                           "direction" : "clockwise",
-                                          "duration" : 10,
+                                          "duration" : 600,
                                           "linearCoefficient" : 1,
                                           "orbitalAxis" : [
-                                            0,
-                                            -1,
-                                            0
+                                            -8.6391031800303608e-05,
+                                            -0.98900425434112549,
+                                            0.14788670837879181
                                           ],
                                           "orientToPath" : true,
-                                          "pivotTarget" : "174FA4A6-DDCB-4A07-877E-5BA764601A8C",
+                                          "pivotTarget" : "14CF3300-C4CE-4008-AFE3-FA85AD840A11",
                                           "respectPhysics" : false,
-                                          "rotations" : 1,
+                                          "rotations" : 10,
                                           "target" : [
-
+                                            "FF962289-EDBB-4CB8-A489-0FDE33FDC785"
                                           ]
                                         },
                                         "name" : {
                                           "type" : "orbitEntity"
                                         }
                                       },
-                                      "identifier" : "46D427F6-0ABC-4C24-AD91-15164816BC41",
+                                      "identifier" : "205E1F72-76D1-49BC-9022-8484F7A31987",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "axis" : [
+                                            0,
+                                            0,
+                                            1
+                                          ],
+                                          "direction" : "clockwise",
+                                          "duration" : 600,
+                                          "iterations" : 20,
+                                          "target" : [
+                                            "FF962289-EDBB-4CB8-A489-0FDE33FDC785"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "spin"
+                                        }
+                                      },
+                                      "identifier" : "6B8879AC-BE7F-4BA9-A64D-1661979068C0",
                                       "isEnabled" : true
                                     }
                                   ],
@@ -128,17 +155,281 @@
                                             0
                                           ],
                                           "direction" : "clockwise",
-                                          "duration" : 10,
-                                          "iterations" : 1,
+                                          "duration" : 600,
+                                          "iterations" : 3,
                                           "target" : [
-
+                                            "9EFDB153-E457-4D6B-94C6-9CA8DC4A906C",
+                                            "88F5C368-B5C4-41CF-BA3A-2FA608A4F1F0",
+                                            "0E9DB5D1-F2DA-46BA-9465-5FB6C987E215",
+                                            "5FAAA183-48B3-421E-A1AF-C1A59CFB9F53",
+                                            "76FF5457-6889-4816-9583-CE4359F74BD4",
+                                            "7A3A9C9F-0EC8-4147-ADA2-E5415E739E06",
+                                            "349BBE1B-21EF-4F46-AF82-2334F3B20289"
                                           ]
                                         },
                                         "name" : {
                                           "type" : "spin"
                                         }
                                       },
-                                      "identifier" : "21A315E4-3EE8-4C27-85DA-A75DDD5ADB72",
+                                      "identifier" : "9ABB8FBF-6C45-42B6-8B1D-1C36D9F9BF1C",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "clockwise",
+                                          "duration" : 600,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            4.8972171498462558e-05,
+                                            -0.99736154079437256,
+                                            -0.072593830525875092
+                                          ],
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
+                                          "respectPhysics" : false,
+                                          "rotations" : 6,
+                                          "target" : [
+                                            "9EFDB153-E457-4D6B-94C6-9CA8DC4A906C"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "228786F9-5D9A-49EE-B37C-77D6650E73C0",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "clockwise",
+                                          "duration" : 600,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            3.5729390219785273e-05,
+                                            -0.99752223491668701,
+                                            0.070351794362068176
+                                          ],
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
+                                          "respectPhysics" : false,
+                                          "rotations" : 4,
+                                          "target" : [
+                                            "88F5C368-B5C4-41CF-BA3A-2FA608A4F1F0"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "FF612409-D4C5-44E7-8A08-2D4B3EB5B7CD",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "axis" : [
+                                            0,
+                                            1,
+                                            0
+                                          ],
+                                          "direction" : "clockwise",
+                                          "duration" : 600,
+                                          "iterations" : 1,
+                                          "target" : [
+                                            "9EFDB153-E457-4D6B-94C6-9CA8DC4A906C",
+                                            "88F5C368-B5C4-41CF-BA3A-2FA608A4F1F0",
+                                            "0E9DB5D1-F2DA-46BA-9465-5FB6C987E215",
+                                            "5FAAA183-48B3-421E-A1AF-C1A59CFB9F53",
+                                            "76FF5457-6889-4816-9583-CE4359F74BD4",
+                                            "7A3A9C9F-0EC8-4147-ADA2-E5415E739E06",
+                                            "349BBE1B-21EF-4F46-AF82-2334F3B20289",
+                                            "3221C7A2-D878-43CC-9DF1-7EF889180822"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "spin"
+                                        }
+                                      },
+                                      "identifier" : "9FCA75AD-D91D-411D-BFAD-300CC592F450",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "clockwise",
+                                          "duration" : 900,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            1.6919133486226201e-05,
+                                            -0.9993937611579895,
+                                            -0.034812133759260178
+                                          ],
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
+                                          "respectPhysics" : false,
+                                          "rotations" : 2,
+                                          "target" : [
+                                            "0E9DB5D1-F2DA-46BA-9465-5FB6C987E215"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "ACE35826-3106-443F-B6C6-C399DF4F107A",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "clockwise",
+                                          "duration" : 900,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            0,
+                                            -1,
+                                            0
+                                          ],
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
+                                          "respectPhysics" : false,
+                                          "rotations" : 1,
+                                          "target" : [
+                                            "5FAAA183-48B3-421E-A1AF-C1A59CFB9F53"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "08B0C744-3BD9-4B43-B411-17516B9A0D06",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "clockwise",
+                                          "duration" : 1200,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            1.3238903193268925e-05,
+                                            -0.99773728847503662,
+                                            -0.067232578992843628
+                                          ],
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
+                                          "respectPhysics" : false,
+                                          "rotations" : 1,
+                                          "target" : [
+                                            "76FF5457-6889-4816-9583-CE4359F74BD4"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "19772907-3809-4119-BF08-3F2C2890448A",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "clockwise",
+                                          "duration" : 1500,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            9.4740616987110116e-06,
+                                            -0.99636000394821167,
+                                            0.085245102643966675
+                                          ],
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
+                                          "respectPhysics" : false,
+                                          "rotations" : 1,
+                                          "target" : [
+                                            "7A3A9C9F-0EC8-4147-ADA2-E5415E739E06"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "3DB8E70C-C4F2-450D-8B1E-71A9F3F87DD7",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "clockwise",
+                                          "duration" : 1800,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            9.3338476290227845e-06,
+                                            -0.99819624423980713,
+                                            0.060034368187189102
+                                          ],
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
+                                          "respectPhysics" : false,
+                                          "rotations" : 1,
+                                          "target" : [
+                                            "349BBE1B-21EF-4F46-AF82-2334F3B20289"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "8F3B395B-DD7C-473D-8F25-95D6D48D2E7E",
                                       "isEnabled" : true
                                     }
                                   ],
@@ -160,9 +451,9 @@
                       ],
                       "identifier" : "98381CE1-31E4-4C54-87A3-E49997C3A624",
                       "isEnabled" : true,
-                      "isLooping" : false,
+                      "isLooping" : true,
                       "isModal" : false,
-                      "name" : "Earth",
+                      "name" : "Milky Way",
                       "triggers" : [
                         {
                           "__content" : [
@@ -179,6 +470,38 @@
                           ],
                           "__version" : 1
                         }
+                      ]
+                    }
+                  ],
+                  "__version" : 3
+                },
+                {
+                  "__content" : [
+                    {
+                      "accessibility" : {
+                        "__content" : [
+                          {
+                            "isEnabled" : false
+                          }
+                        ],
+                        "__version" : 1
+                      },
+                      "actionGroups" : [
+
+                      ],
+                      "color" : [
+                        0.364705890417099,
+                        0.74117648601531982,
+                        0.69019609689712524,
+                        1
+                      ],
+                      "identifier" : "873C4CF8-4C43-4A5B-8DB0-BFB71907288F",
+                      "isEnabled" : true,
+                      "isLooping" : false,
+                      "isModal" : false,
+                      "name" : "Behavior",
+                      "triggers" : [
+
                       ]
                     }
                   ],
@@ -292,21 +615,21 @@
                     },
                     "transform" : {
                       "matrix" : [
-                        1,
+                        0.34999999403953552,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.34999999403953552,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.34999999403953552,
                         0,
                         0,
-                        1.4999998807907104,
-                        0,
+                        0.45146307349205017,
+                        1.3709054655919317e-06,
                         1
                       ]
                     }
@@ -400,20 +723,20 @@
                     },
                     "transform" : {
                       "matrix" : [
-                        1,
+                        0.075000002980232239,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.075000002980232239,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.075000002980232239,
                         0,
-                        24.00079345703125,
-                        1.465609073638916,
+                        2.8738830089569092,
+                        0.45149028301239014,
                         0,
                         1
                       ]
@@ -506,21 +829,21 @@
                     },
                     "transform" : {
                       "matrix" : [
-                        1,
+                        0.045000001788139343,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.045000001788139343,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.045000001788139343,
                         0,
-                        9.0002985000610352,
-                        1.4949703216552734,
-                        0,
+                        1.2285885810852051,
+                        0.4514985978603363,
+                        -7.4090107382573933e-09,
                         1
                       ]
                     }
@@ -612,21 +935,21 @@
                     },
                     "transform" : {
                       "matrix" : [
-                        1,
+                        0.019999999552965164,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.019999999552965164,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.019999999552965164,
                         0,
-                        3.0000994205474854,
-                        1.4999997615814209,
-                        0,
+                        0.74971497058868408,
+                        0.45149999856948853,
+                        -1.7859733247860277e-07,
                         1
                       ]
                     }
@@ -719,20 +1042,20 @@
                     },
                     "transform" : {
                       "matrix" : [
-                        1,
+                        0.13500000536441803,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.13500000536441803,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.13500000536441803,
                         0,
-                        21.000696182250977,
-                        0.58048659563064575,
+                        2.4524340629577637,
+                        0.4514957070350647,
                         0,
                         1
                       ]
@@ -826,20 +1149,20 @@
                     },
                     "transform" : {
                       "matrix" : [
-                        1,
+                        0.1459745466709137,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.1459745466709137,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.1459745466709137,
                         0,
-                        18.00059700012207,
-                        1.40268874168396,
+                        1.954623818397522,
+                        0.45148596167564392,
                         0,
                         1
                       ]
@@ -932,21 +1255,21 @@
                     },
                     "transform" : {
                       "matrix" : [
-                        1,
+                        0.067000001668930054,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.067000001668930054,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.067000001668930054,
                         0,
-                        27.014154434204102,
-                        1.4743783473968506,
-                        -0.15884138643741608,
+                        3.1928014755249023,
+                        0.45149284601211548,
+                        0,
                         1
                       ]
                     }
@@ -1039,21 +1362,21 @@
                     },
                     "transform" : {
                       "matrix" : [
-                        1,
+                        0.012000000104308128,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.012000000104308128,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.012000000104308128,
                         0,
-                        12.000397682189941,
-                        1.4981276988983154,
-                        0,
+                        1.3387985229492188,
+                        0.45148897171020508,
+                        -1.6837903293875911e-09,
                         1
                       ]
                     }
@@ -1147,20 +1470,20 @@
                     },
                     "transform" : {
                       "matrix" : [
-                        1,
+                        0.032367195934057236,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.032367195934057236,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.032367195934057236,
                         0,
-                        15.000497817993164,
-                        1.491166353225708,
+                        1.5304781198501587,
+                        0.45148903131484985,
                         0,
                         1
                       ]
@@ -1253,21 +1576,21 @@
                     },
                     "transform" : {
                       "matrix" : [
-                        1,
+                        0.039999999105930328,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.039999999105930328,
                         0,
                         0,
                         0,
                         0,
-                        1,
+                        0.039999999105930328,
                         0,
-                        6.0001988410949707,
-                        1.4999668598175049,
-                        0,
+                        0.95729100704193115,
+                        0.45149719715118408,
+                        -9.6472876975894906e-07,
                         1
                       ]
                     }
@@ -1290,21 +1613,21 @@
               "title" : "solarSystem",
               "viewTransform" : {
                 "cameraTransform" : [
-                  -0.91243386268615723,
-                  7.4505805969238281e-09,
-                  -0.40922412276268005,
+                  0.99944144487380981,
+                  7.4505801528346183e-09,
+                  -0.033417284488677979,
                   0,
-                  -0.21446630358695984,
-                  0.85166966915130615,
-                  0.47818726301193237,
+                  -0.012154645286500454,
+                  0.9315001368522644,
+                  -0.36353760957717896,
                   0,
-                  0.34852439165115356,
-                  0.5240786075592041,
-                  -0.77709215879440308,
+                  0.031127780675888062,
+                  0.36373978853225708,
+                  0.93098032474517822,
                   0,
-                  0.15666511654853821,
-                  1.3985514640808105,
-                  -1.8519501686096191,
+                  0.82088768482208252,
+                  1.1113142967224121,
+                  2.572735071182251,
                   1
                 ],
                 "sceneTransform" : [

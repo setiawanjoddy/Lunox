@@ -3499,7 +3499,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari atau Surya adalah bintang di pusat tata surya.\nBentuknya nyaris bulat dan terdiri dari plasma panas bercampur medan magnet. \nDiameternya sekitar 1.392.684 kilometer, \nkira-kira 109 kali diameter Bumi, dan massanya (sekitar 2×1030 kilogram, \n330.000 kali massa Bumi) mewakili \nkurang lebih 99,86 % massa total tata surya, jarak rata-rata Matahari ke Bumi \nsekitar 149,6 juta kilometer"
+                            "value" : "Merkurius adalah planet pertama dari Matahari dan terkecil di dalam tata surya \ndengan kala revolusi 88 hari dan kala rotasi 59 hari. \nKecerahan planet ini berkisar di antara -2 sampai 5,5 dalam magnitudo tampak \nnamun tidak mudah terlihat karena sudut pandangnya dengan Matahari kecil (dengan rentangan \npaling jauh sebesar 28,3 derajat), \njarak rata-rata Merkurius dengan Bumi 92 juta kilometer"
                           }
                         ],
                         [
@@ -3568,8 +3568,8 @@
                         0,
                         0.50000005960464478,
                         0,
-                        1.5027303695678711,
-                        0.48404777050018311,
+                        1.6828815937042236,
+                        0.48403826355934143,
                         0.0012100000167265534,
                         1
                       ]
@@ -3664,7 +3664,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari"
+                            "value" : "Merkurius"
                           }
                         ],
                         [
@@ -3811,7 +3811,7 @@
                           "entityName",
                           {
                             "typeName" : "String",
-                            "value" : "sun"
+                            "value" : "mercury"
                           }
                         ]
                       ]
@@ -4004,21 +4004,21 @@
               "title" : "mercuryScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99979698657989502,
-                  -3.2411480788141489e-07,
-                  -0.020146014168858528,
+                  0.9978521466255188,
+                  -3.2782187986413192e-07,
+                  -0.065505877137184143,
                   0,
-                  -0.0064263241365551949,
-                  0.94775390625,
-                  -0.31893759965896606,
+                  -0.024221906438469887,
+                  0.92912274599075317,
+                  -0.36897715926170349,
                   0,
-                  0.019093558192253113,
-                  0.31900230050086975,
-                  0.94756156206130981,
+                  0.060863107442855835,
+                  0.36977130174636841,
+                  0.92712712287902832,
                   0,
-                  1.1760015487670898,
-                  2.0207312107086182,
-                  4.939145565032959,
+                  1.0540200471878052,
+                  1.9499884843826294,
+                  3.8636870384216309,
                   1
                 ],
                 "sceneTransform" : [
@@ -4343,7 +4343,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari atau Surya adalah bintang di pusat tata surya.\nBentuknya nyaris bulat dan terdiri dari plasma panas bercampur medan magnet. \nDiameternya sekitar 1.392.684 kilometer, \nkira-kira 109 kali diameter Bumi, dan massanya (sekitar 2×1030 kilogram, \n330.000 kali massa Bumi) mewakili \nkurang lebih 99,86 % massa total tata surya, jarak rata-rata Matahari ke Bumi \nsekitar 149,6 juta kilometer"
+                            "value" : "Venus adalah planet kedua dari Matahari. \nPlanet ini mengorbit Matahari selama 224,7 hari Bumi , diameter Venus tercatat sebesar 12.092 km\n(hanya lebih kecil 650 km daripada Bumi) dan massanya kurang lebih 81,5% dari massa Bumi, \njarak rata-rata venus ke  bumi adalah 44,447 juta kilometer"
                           }
                         ],
                         [
@@ -4412,8 +4412,8 @@
                         0,
                         0.50000005960464478,
                         0,
-                        1.5027303695678711,
-                        0.48404777050018311,
+                        1.7077350616455078,
+                        0.48404484987258911,
                         0.0012100000167265534,
                         1
                       ]
@@ -4508,7 +4508,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari"
+                            "value" : "Venus"
                           }
                         ],
                         [
@@ -4655,7 +4655,7 @@
                           "entityName",
                           {
                             "typeName" : "String",
-                            "value" : "sun"
+                            "value" : "venus"
                           }
                         ]
                       ]
@@ -4848,21 +4848,21 @@
               "title" : "venusScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99979698657989502,
-                  -3.2411480788141489e-07,
-                  -0.020146014168858528,
+                  0.99999666213989258,
+                  -3.2407115213572979e-07,
+                  -0.0025692284107208252,
                   0,
-                  -0.0064263241365551949,
-                  0.94775390625,
-                  -0.31893759965896606,
+                  -0.00052797142416238785,
+                  0.97863084077835083,
+                  -0.20562373101711273,
                   0,
-                  0.019093558192253113,
-                  0.31900230050086975,
-                  0.94756156206130981,
+                  0.002514395397156477,
+                  0.20562447607517242,
+                  0.97862768173217773,
                   0,
-                  1.1760015487670898,
-                  2.0207312107086182,
-                  4.939145565032959,
+                  1.8785421848297119,
+                  1.8029861450195312,
+                  5.3653903007507324,
                   1
                 ],
                 "sceneTransform" : [
@@ -4926,7 +4926,8 @@
                                           "duration" : 3600,
                                           "iterations" : 60,
                                           "target" : [
-                                            "C243BCE4-BDB7-45DD-8F86-9B087889CE61"
+                                            "C243BCE4-BDB7-45DD-8F86-9B087889CE61",
+                                            "A4D09109-AF6D-4915-835C-0F533A8FE8E0"
                                           ]
                                         },
                                         "name" : {
@@ -4934,6 +4935,38 @@
                                         }
                                       },
                                       "identifier" : "308A6501-535F-42A0-9579-D52DB7756CC7",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "clockwise",
+                                          "duration" : 3600,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            0,
+                                            -1,
+                                            0
+                                          ],
+                                          "orientToPath" : false,
+                                          "pivotTarget" : "C243BCE4-BDB7-45DD-8F86-9B087889CE61",
+                                          "respectPhysics" : false,
+                                          "rotations" : 600,
+                                          "target" : [
+                                            "A4D09109-AF6D-4915-835C-0F533A8FE8E0"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "DDF5826E-1E0B-4B93-83E1-00944E6DD6F4",
                                       "isEnabled" : true
                                     }
                                   ],
@@ -5187,7 +5220,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari atau Surya adalah bintang di pusat tata surya.\nBentuknya nyaris bulat dan terdiri dari plasma panas bercampur medan magnet. \nDiameternya sekitar 1.392.684 kilometer, \nkira-kira 109 kali diameter Bumi, dan massanya (sekitar 2×1030 kilogram, \n330.000 kali massa Bumi) mewakili \nkurang lebih 99,86 % massa total tata surya, jarak rata-rata Matahari ke Bumi \nsekitar 149,6 juta kilometer"
+                            "value" : "Bumi adalah planet ketiga dari Matahari yang merupakan planet terpadat dan \nterbesar kelima dari delapan planet dalam Tata Surya. \nBumi juga merupakan planet terbesar dari empat planet kebumian Tata Surya. \nBumi terkadang disebut dengan dunia atau Planet Biru, Bumi adalah satu-satunya planet berpenghuni. \nBumi terbentuk sekitar 4,54 miliar tahun yang lalu, dan kehidupan sudah muncul di permukaannya \npaling tidak sekitar 3,5 miliar tahun yang lalu."
                           }
                         ],
                         [
@@ -5256,8 +5289,8 @@
                         0,
                         0.50000005960464478,
                         0,
-                        1.5027303695678711,
-                        0.48404777050018311,
+                        1.7508870363235474,
+                        0.48404473066329956,
                         0.0012100000167265534,
                         1
                       ]
@@ -5352,7 +5385,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari"
+                            "value" : "Bumi"
                           }
                         ],
                         [
@@ -5499,7 +5532,7 @@
                           "entityName",
                           {
                             "typeName" : "String",
-                            "value" : "sun"
+                            "value" : "earth"
                           }
                         ]
                       ]
@@ -5526,6 +5559,119 @@
                     }
                   },
                   "Cube" : null,
+                  "EB27A88F-9DDF-4596-86BA-062484A78AA3" : {
+                    "overrides" : {
+                      "children" : {
+                        "USDScene" : {
+                          "overrides" : {
+                            "arguments" : [
+                              [
+                                "includeSceneScaling",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : false
+                                }
+                              ],
+                              [
+                                "subpath",
+                                {
+                                  "typeName" : "String",
+                                  "value" : ""
+                                }
+                              ],
+                              [
+                                "url",
+                                {
+                                  "typeName" : "String",
+                                  "value" : "model:ee1ddd83793e5f67ff8cc789fb83af22\/Moon_1_3474.usdz"
+                                }
+                              ],
+                              [
+                                "withDescendants",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : true
+                                }
+                              ]
+                            ],
+                            "factory" : {
+                              "identifier" : "com.apple.af.FileImportAssetFactory",
+                              "version" : "0.0"
+                            },
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "4AB409A7-5537-4574-9C21-CB20ADAE7695"
+                                }
+                              ]
+                            ]
+                          },
+                          "transform" : {
+                            "matrix" : [
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              0.0099999997764825821,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.af.Group",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "A4D09109-AF6D-4915-835C-0F533A8FE8E0"
+                          }
+                        ],
+                        [
+                          "entityName",
+                          {
+                            "typeName" : "String",
+                            "value" : "earthMoon"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.066979922354221344,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.066979922354221344,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.066979922354221344,
+                        0,
+                        0.48213097453117371,
+                        1.1240870952606201,
+                        0.0024200000334531069,
+                        1
+                      ]
+                    }
+                  },
                   "EF24BAF2-DB1C-42A5-838D-5232D845E6DA" : null,
                   "EFF32965-9423-484D-A42B-7EBB7A73F76F" : {
                     "overrides" : {
@@ -5692,21 +5838,21 @@
               "title" : "earthScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99979698657989502,
-                  -3.2411480788141489e-07,
-                  -0.020146014168858528,
+                  0.99858415126800537,
+                  -3.2223761081695557e-07,
+                  0.053194142878055573,
                   0,
-                  -0.0064263241365551949,
-                  0.94775390625,
-                  -0.31893759965896606,
+                  0.013239183463156223,
+                  0.96853470802307129,
+                  -0.2485259473323822,
                   0,
-                  0.019093558192253113,
-                  0.31900230050086975,
-                  0.94756156206130981,
+                  -0.051520302891731262,
+                  0.2488783597946167,
+                  0.96716344356536865,
                   0,
-                  1.6330293416976929,
-                  2.1477713584899902,
-                  4.8871679306030273,
+                  1.584253191947937,
+                  2.0509269237518311,
+                  5.352118968963623,
                   1
                 ],
                 "sceneTransform" : [
@@ -6031,7 +6177,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari atau Surya adalah bintang di pusat tata surya.\nBentuknya nyaris bulat dan terdiri dari plasma panas bercampur medan magnet. \nDiameternya sekitar 1.392.684 kilometer, \nkira-kira 109 kali diameter Bumi, dan massanya (sekitar 2×1030 kilogram, \n330.000 kali massa Bumi) mewakili \nkurang lebih 99,86 % massa total tata surya, jarak rata-rata Matahari ke Bumi \nsekitar 149,6 juta kilometer"
+                            "value" : "Mars adalah planet keempat dari Matahari. Planet ini sering dijuluki sebagai \"planet merah\" \nkarena tampak dari jauh berwarna kemerah-kemerahan. Planet ini memiliki \n2 buah satelit, yaitu Phobos dan Deimos. Planet ini mengorbit selama 687 hari \ndalam mengelilingi Matahari. Planet ini juga berotasi, kala rotasinya 25,62 jam, jarak rata-rata Mars ke \nBumi adalah 141,85 juta kilometer."
                           }
                         ],
                         [
@@ -6100,8 +6246,8 @@
                         0,
                         0.50000005960464478,
                         0,
-                        1.5027303695678711,
-                        0.48404777050018311,
+                        1.7415119409561157,
+                        0.48404103517532349,
                         0.0012100000167265534,
                         1
                       ]
@@ -6196,7 +6342,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari"
+                            "value" : "Mars"
                           }
                         ],
                         [
@@ -6343,7 +6489,7 @@
                           "entityName",
                           {
                             "typeName" : "String",
-                            "value" : "sun"
+                            "value" : "mars"
                           }
                         ]
                       ]
@@ -6533,24 +6679,24 @@
                 ]
               },
               "physicsMode" : "grid",
-              "title" : "earthScene 1",
+              "title" : "marsScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99979698657989502,
-                  -3.2411480788141489e-07,
-                  -0.020146014168858528,
+                  0.98212480545043945,
+                  -3.17115308234861e-07,
+                  0.18823049962520599,
                   0,
-                  -0.0064263241365551949,
-                  0.94775390625,
-                  -0.31893759965896606,
+                  -0.011833562515676022,
+                  0.99802172183990479,
+                  0.061745312064886093,
                   0,
-                  0.019093558192253113,
-                  0.31900230050086975,
-                  0.94756156206130981,
+                  -0.18785816431045532,
+                  -0.062869049608707428,
+                  0.9801819920539856,
                   0,
-                  1.6330293416976929,
-                  2.1477713584899902,
-                  4.8871679306030273,
+                  0.70737135410308838,
+                  0.8309704065322876,
+                  5.8068170547485352,
                   1
                 ],
                 "sceneTransform" : [
@@ -7040,7 +7186,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari"
+                            "value" : "Jupiter\n"
                           }
                         ],
                         [
@@ -7187,7 +7333,7 @@
                           "entityName",
                           {
                             "typeName" : "String",
-                            "value" : "sun"
+                            "value" : "jupiter"
                           }
                         ]
                       ]
@@ -7377,7 +7523,7 @@
                 ]
               },
               "physicsMode" : "grid",
-              "title" : "earthScene 2",
+              "title" : "jupiterScene",
               "viewTransform" : {
                 "cameraTransform" : [
                   0.98988264799118042,
@@ -7392,9 +7538,9 @@
                   0.027463793754577637,
                   0.9895092248916626,
                   0,
-                  0.79888683557510376,
-                  0.64404702186584473,
-                  5.170384407043457,
+                  0.84927189350128174,
+                  0.69977593421936035,
+                  5.1760601997375488,
                   1
                 ],
                 "sceneTransform" : [
@@ -7884,7 +8030,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari"
+                            "value" : "Saturn"
                           }
                         ],
                         [
@@ -8031,7 +8177,7 @@
                           "entityName",
                           {
                             "typeName" : "String",
-                            "value" : "sun"
+                            "value" : "saturn"
                           }
                         ]
                       ]
@@ -8221,7 +8367,7 @@
                 ]
               },
               "physicsMode" : "grid",
-              "title" : "earthScene 3",
+              "title" : "saturnScene",
               "viewTransform" : {
                 "cameraTransform" : [
                   0.99028164148330688,
@@ -8728,7 +8874,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari"
+                            "value" : "Uranus"
                           }
                         ],
                         [
@@ -8875,7 +9021,7 @@
                           "entityName",
                           {
                             "typeName" : "String",
-                            "value" : "sun"
+                            "value" : "uranus"
                           }
                         ]
                       ]
@@ -9065,7 +9211,7 @@
                 ]
               },
               "physicsMode" : "grid",
-              "title" : "earthScene 4",
+              "title" : "uranusScene",
               "viewTransform" : {
                 "cameraTransform" : [
                   0.99979698657989502,
@@ -9572,7 +9718,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari"
+                            "value" : "Neptune\n"
                           }
                         ],
                         [
@@ -9719,7 +9865,7 @@
                           "entityName",
                           {
                             "typeName" : "String",
-                            "value" : "sun"
+                            "value" : "neptune"
                           }
                         ]
                       ]
@@ -9909,7 +10055,7 @@
                 ]
               },
               "physicsMode" : "grid",
-              "title" : "earthScene 5",
+              "title" : "neptuneScene",
               "viewTransform" : {
                 "cameraTransform" : [
                   0.99509996175765991,

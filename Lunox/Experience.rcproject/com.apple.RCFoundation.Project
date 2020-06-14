@@ -1146,6 +1146,606 @@
                     }
                   ],
                   "__version" : 3
+                },
+                {
+                  "__content" : [
+                    {
+                      "accessibility" : {
+                        "__content" : [
+                          {
+                            "isEnabled" : false
+                          }
+                        ],
+                        "__version" : 1
+                      },
+                      "actionGroups" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "targetScene" : "D80E1608-06FE-4E45-B9BC-BCA5C3A3F248"
+                                        },
+                                        "name" : {
+                                          "type" : "changeScene"
+                                        }
+                                      },
+                                      "identifier" : "DF3A7AAA-A799-40D7-BCA4-A09682D0D1F6",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                }
+                              ],
+                              "identifier" : "4D4067F5-C708-42E2-9AAE-56E8B6725C3F",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ],
+                      "color" : [
+                        0.364705890417099,
+                        0.74117648601531982,
+                        0.69019609689712524,
+                        1
+                      ],
+                      "identifier" : "B817C272-2336-472B-A293-9C402CBB9EC1",
+                      "isEnabled" : true,
+                      "isLooping" : false,
+                      "isModal" : false,
+                      "name" : "MercuryTapped",
+                      "triggers" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurationBox" : {
+                                "configuration" : {
+                                  "target" : [
+                                    "9EFDB153-E457-4D6B-94C6-9CA8DC4A906C"
+                                  ]
+                                },
+                                "name" : "tapTarget"
+                              },
+                              "identifier" : "37060791-4A91-4A52-AB4C-9B9D32562F85",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ]
+                    }
+                  ],
+                  "__version" : 3
+                },
+                {
+                  "__content" : [
+                    {
+                      "accessibility" : {
+                        "__content" : [
+                          {
+                            "isEnabled" : false
+                          }
+                        ],
+                        "__version" : 1
+                      },
+                      "actionGroups" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "targetScene" : "B67D9922-7019-459C-B3F0-5204B81C8A2F"
+                                        },
+                                        "name" : {
+                                          "type" : "changeScene"
+                                        }
+                                      },
+                                      "identifier" : "0CB0AD51-2BEC-45DC-8A77-8F7829800149",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                }
+                              ],
+                              "identifier" : "F619980F-6051-4972-99F1-0652417594BD",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ],
+                      "color" : [
+                        0.86274510622024536,
+                        0.3333333432674408,
+                        0.41568627953529358,
+                        1
+                      ],
+                      "identifier" : "E299CFB8-A097-4672-8418-D0868D03B73A",
+                      "isEnabled" : true,
+                      "isLooping" : false,
+                      "isModal" : false,
+                      "name" : "VenusTapped",
+                      "triggers" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurationBox" : {
+                                "configuration" : {
+                                  "target" : [
+                                    "88F5C368-B5C4-41CF-BA3A-2FA608A4F1F0"
+                                  ]
+                                },
+                                "name" : "tapTarget"
+                              },
+                              "identifier" : "2F212070-4168-46B3-A408-C4DF32487D11",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ]
+                    }
+                  ],
+                  "__version" : 3
+                },
+                {
+                  "__content" : [
+                    {
+                      "accessibility" : {
+                        "__content" : [
+                          {
+                            "isEnabled" : false
+                          }
+                        ],
+                        "__version" : 1
+                      },
+                      "actionGroups" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "targetScene" : "ED5D96B2-83B9-46E3-A17E-C63476C7E59F"
+                                        },
+                                        "name" : {
+                                          "type" : "changeScene"
+                                        }
+                                      },
+                                      "identifier" : "D0C06BCE-3A25-444A-B3CD-97C29344B909",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                }
+                              ],
+                              "identifier" : "8AE07F0A-533E-4D70-8285-80B3F640C609",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ],
+                      "color" : [
+                        0.30980393290519714,
+                        0.56470590829849243,
+                        0.99215686321258545,
+                        1
+                      ],
+                      "identifier" : "5B572588-E2A8-4B1A-B8B9-A8967D122CEF",
+                      "isEnabled" : true,
+                      "isLooping" : false,
+                      "isModal" : false,
+                      "name" : "EarthTapped",
+                      "triggers" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurationBox" : {
+                                "configuration" : {
+                                  "target" : [
+                                    "14CF3300-C4CE-4008-AFE3-FA85AD840A11"
+                                  ]
+                                },
+                                "name" : "tapTarget"
+                              },
+                              "identifier" : "0C08EE15-A44A-4D26-9E20-A3B8361B6CCE",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ]
+                    }
+                  ],
+                  "__version" : 3
+                },
+                {
+                  "__content" : [
+                    {
+                      "accessibility" : {
+                        "__content" : [
+                          {
+                            "isEnabled" : false
+                          }
+                        ],
+                        "__version" : 1
+                      },
+                      "actionGroups" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "targetScene" : "901A249D-202B-458B-A36F-B15BE3E1CAC2"
+                                        },
+                                        "name" : {
+                                          "type" : "changeScene"
+                                        }
+                                      },
+                                      "identifier" : "3C96639C-6B45-40FA-8AC6-5FE2A2D40E5F",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                }
+                              ],
+                              "identifier" : "F344A689-22D1-4ADA-8E0C-C0BEFFF4C870",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ],
+                      "color" : [
+                        0.92941176891326904,
+                        0.62745100259780884,
+                        0.34117648005485535,
+                        1
+                      ],
+                      "identifier" : "8B1C284E-CAD9-46A8-A7D1-0CE96106F9AE",
+                      "isEnabled" : true,
+                      "isLooping" : false,
+                      "isModal" : false,
+                      "name" : "MarsTapped",
+                      "triggers" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurationBox" : {
+                                "configuration" : {
+                                  "target" : [
+                                    "0E9DB5D1-F2DA-46BA-9465-5FB6C987E215"
+                                  ]
+                                },
+                                "name" : "tapTarget"
+                              },
+                              "identifier" : "551BEC38-40DF-4305-84FE-F8CB8EAA1C53",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ]
+                    }
+                  ],
+                  "__version" : 3
+                },
+                {
+                  "__content" : [
+                    {
+                      "accessibility" : {
+                        "__content" : [
+                          {
+                            "isEnabled" : false
+                          }
+                        ],
+                        "__version" : 1
+                      },
+                      "actionGroups" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "targetScene" : "601D5A3B-1C2D-4A49-8BDA-F9FDF9ED4B54"
+                                        },
+                                        "name" : {
+                                          "type" : "changeScene"
+                                        }
+                                      },
+                                      "identifier" : "35165C05-CC89-4FAB-B4B1-D2EFAACCDF8C",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                }
+                              ],
+                              "identifier" : "44D47275-CABB-4AFB-8F63-FEF64D2E19A6",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ],
+                      "color" : [
+                        0.56078433990478516,
+                        0.47058823704719543,
+                        0.80392158031463623,
+                        1
+                      ],
+                      "identifier" : "006F8E50-0C0C-48B5-9B95-6422A82DE35B",
+                      "isEnabled" : true,
+                      "isLooping" : false,
+                      "isModal" : false,
+                      "name" : "JupiterTapped",
+                      "triggers" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurationBox" : {
+                                "configuration" : {
+                                  "target" : [
+                                    "5FAAA183-48B3-421E-A1AF-C1A59CFB9F53"
+                                  ]
+                                },
+                                "name" : "tapTarget"
+                              },
+                              "identifier" : "28F3B46D-9625-475B-9893-9647B384A164",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ]
+                    }
+                  ],
+                  "__version" : 3
+                },
+                {
+                  "__content" : [
+                    {
+                      "accessibility" : {
+                        "__content" : [
+                          {
+                            "isEnabled" : false
+                          }
+                        ],
+                        "__version" : 1
+                      },
+                      "actionGroups" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "targetScene" : "030161E3-A8D7-4D69-8517-86B9D428658C"
+                                        },
+                                        "name" : {
+                                          "type" : "changeScene"
+                                        }
+                                      },
+                                      "identifier" : "57302DCD-6649-4C9B-8CA3-37935E3F9765",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                }
+                              ],
+                              "identifier" : "40BC7DF9-5126-4FC5-85F5-62DA71146FDA",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ],
+                      "color" : [
+                        0.87450981140136719,
+                        0.47058823704719543,
+                        0.31764706969261169,
+                        1
+                      ],
+                      "identifier" : "1B8A7CAC-2E2C-422B-A5C8-719A8D5D6570",
+                      "isEnabled" : true,
+                      "isLooping" : false,
+                      "isModal" : false,
+                      "name" : "SaturnTapped",
+                      "triggers" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurationBox" : {
+                                "configuration" : {
+                                  "target" : [
+                                    "76FF5457-6889-4816-9583-CE4359F74BD4"
+                                  ]
+                                },
+                                "name" : "tapTarget"
+                              },
+                              "identifier" : "BCFC4E7F-FB20-44C4-8A7E-265DE26CA5F9",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ]
+                    }
+                  ],
+                  "__version" : 3
+                },
+                {
+                  "__content" : [
+                    {
+                      "accessibility" : {
+                        "__content" : [
+                          {
+                            "isEnabled" : false
+                          }
+                        ],
+                        "__version" : 1
+                      },
+                      "actionGroups" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "targetScene" : "B9D82D90-429A-43BF-9FB7-2840AF6A57E3"
+                                        },
+                                        "name" : {
+                                          "type" : "changeScene"
+                                        }
+                                      },
+                                      "identifier" : "8630C896-9305-4EFE-B021-D7CF3492893E",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                }
+                              ],
+                              "identifier" : "A9F97CBB-F0C9-48BC-9E6A-8C0FB66E1879",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ],
+                      "color" : [
+                        0.21568627655506134,
+                        0.72549021244049072,
+                        0.80000001192092896,
+                        1
+                      ],
+                      "identifier" : "95C81C88-4989-4827-99A4-66E75517173F",
+                      "isEnabled" : true,
+                      "isLooping" : false,
+                      "isModal" : false,
+                      "name" : "UranusTapped",
+                      "triggers" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurationBox" : {
+                                "configuration" : {
+                                  "target" : [
+                                    "7A3A9C9F-0EC8-4147-ADA2-E5415E739E06"
+                                  ]
+                                },
+                                "name" : "tapTarget"
+                              },
+                              "identifier" : "F4DECF5A-AC1F-4552-8523-7AFA68B9C82E",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ]
+                    }
+                  ],
+                  "__version" : 3
+                },
+                {
+                  "__content" : [
+                    {
+                      "accessibility" : {
+                        "__content" : [
+                          {
+                            "isEnabled" : false
+                          }
+                        ],
+                        "__version" : 1
+                      },
+                      "actionGroups" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "targetScene" : "B3B41821-8FCE-414F-972C-B5962A72CADC"
+                                        },
+                                        "name" : {
+                                          "type" : "changeScene"
+                                        }
+                                      },
+                                      "identifier" : "5363815C-504E-4C7E-9748-04CDDA7B5321",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                }
+                              ],
+                              "identifier" : "A04FC51C-EF86-40A4-BB5D-683E89624480",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ],
+                      "color" : [
+                        0.49019607901573181,
+                        0.7450980544090271,
+                        0.94901961088180542,
+                        1
+                      ],
+                      "identifier" : "5897C5D4-FC92-4A7D-883A-3EEE60BBC509",
+                      "isEnabled" : true,
+                      "isLooping" : false,
+                      "isModal" : false,
+                      "name" : "NeptuneTapped",
+                      "triggers" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurationBox" : {
+                                "configuration" : {
+                                  "target" : [
+                                    "349BBE1B-21EF-4F46-AF82-2334F3B20289"
+                                  ]
+                                },
+                                "name" : "tapTarget"
+                              },
+                              "identifier" : "D8132C0F-2BAB-41EB-A95A-5A079C7154C0",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ]
+                    }
+                  ],
+                  "__version" : 3
                 }
               ],
               "gravity" : [
@@ -2316,21 +2916,21 @@
               "title" : "solarSystem",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.88763415813446045,
-                  -2.5331974029541016e-07,
-                  0.46054914593696594,
+                  0.99596518278121948,
+                  -2.2351741790771484e-07,
+                  -0.089740201830863953,
                   0,
-                  0.11930766701698303,
-                  0.9658626914024353,
-                  -0.22994542121887207,
+                  -0.0097841499373316765,
+                  0.99403840303421021,
+                  -0.10859111696481705,
                   0,
-                  -0.4448273777961731,
-                  0.25905421376228333,
-                  0.85733276605606079,
+                  0.089205063879489899,
+                  0.10903063416481018,
+                  0.99002760648727417,
                   0,
-                  0.11628472805023193,
-                  1.1520771980285645,
-                  3.6474604606628418,
+                  2.5085649490356445,
+                  0.48276737332344055,
+                  3.6767227649688721,
                   1
                 ],
                 "sceneTransform" : [
@@ -3160,21 +3760,21 @@
               "title" : "sunScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99979698657989502,
-                  -3.2411480788141489e-07,
-                  -0.020146014168858528,
+                  0.98779970407485962,
+                  -2.5285407900810242e-07,
+                  0.15572956204414368,
                   0,
-                  -0.0064263241365551949,
-                  0.94775390625,
-                  -0.31893759965896606,
+                  0.033794764429330826,
+                  0.97617006301879883,
+                  -0.21435925364494324,
                   0,
-                  0.019093558192253113,
-                  0.31900230050086975,
-                  0.94756156206130981,
+                  -0.15201865136623383,
+                  0.21700653433799744,
+                  0.9642605185508728,
                   0,
-                  1.1760015487670898,
-                  2.0207312107086182,
-                  4.939145565032959,
+                  1.7042328119277954,
+                  0.84299325942993164,
+                  3.5778203010559082,
                   1
                 ],
                 "sceneTransform" : [
@@ -4004,21 +4604,21 @@
               "title" : "mercuryScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.9978521466255188,
-                  -3.2782187986413192e-07,
-                  -0.065505877137184143,
+                  0.99596518278121948,
+                  -2.2351741790771484e-07,
+                  -0.089740201830863953,
                   0,
-                  -0.024221906438469887,
-                  0.92912274599075317,
-                  -0.36897715926170349,
+                  -0.0097841499373316765,
+                  0.99403840303421021,
+                  -0.10859111696481705,
                   0,
-                  0.060863107442855835,
-                  0.36977130174636841,
-                  0.92712712287902832,
+                  0.089205063879489899,
+                  0.10903063416481018,
+                  0.99002760648727417,
                   0,
-                  1.0540200471878052,
-                  1.9499884843826294,
-                  3.8636870384216309,
+                  2.5085649490356445,
+                  0.48276737332344055,
+                  3.6767227649688721,
                   1
                 ],
                 "sceneTransform" : [
@@ -7021,7 +7621,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari atau Surya adalah bintang di pusat tata surya.\nBentuknya nyaris bulat dan terdiri dari plasma panas bercampur medan magnet. \nDiameternya sekitar 1.392.684 kilometer, \nkira-kira 109 kali diameter Bumi, dan massanya (sekitar 2×1030 kilogram, \n330.000 kali massa Bumi) mewakili \nkurang lebih 99,86 % massa total tata surya, jarak rata-rata Matahari ke Bumi \nsekitar 149,6 juta kilometer"
+                            "value" : "Jupiter adalah planet kelima dari Matahari. Planet ini juga merupakan planet terbesar di Tata Surya. \nJupiter merupakan raksasa gas dengan massa seperseribu massa Matahari dan dua setengah kali \njumlah massa semua planet lain di Tata Surya, jarak rata-rata Jupiter ke Bumi adalah 644,71 juta kilometer."
                           }
                         ],
                         [
@@ -7090,8 +7690,8 @@
                         0,
                         0.50000005960464478,
                         0,
-                        1.5027303695678711,
-                        0.48404777050018311,
+                        1.793440580368042,
+                        0.48404359817504883,
                         0.0012100000167265534,
                         1
                       ]
@@ -7526,21 +8126,21 @@
               "title" : "jupiterScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.98988264799118042,
-                  -3.2410025596618652e-07,
-                  0.14188843965530396,
+                  0.99759036302566528,
+                  -3.1851234894020308e-07,
+                  0.069379925727844238,
                   0,
-                  0.0038971116300672293,
-                  0.99962276220321655,
-                  -0.027185976505279541,
+                  0.019679712131619453,
+                  0.95892870426177979,
+                  -0.28296345472335815,
                   0,
-                  -0.14183489978313446,
-                  0.027463793754577637,
-                  0.9895092248916626,
+                  -0.066530302166938782,
+                  0.28364700078964233,
+                  0.95661807060241699,
                   0,
-                  0.84927189350128174,
-                  0.69977593421936035,
-                  5.1760601997375488,
+                  1.5033324956893921,
+                  2.302647590637207,
+                  5.4731431007385254,
                   1
                 ],
                 "sceneTransform" : [
@@ -7865,7 +8465,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari atau Surya adalah bintang di pusat tata surya.\nBentuknya nyaris bulat dan terdiri dari plasma panas bercampur medan magnet. \nDiameternya sekitar 1.392.684 kilometer, \nkira-kira 109 kali diameter Bumi, dan massanya (sekitar 2×1030 kilogram, \n330.000 kali massa Bumi) mewakili \nkurang lebih 99,86 % massa total tata surya, jarak rata-rata Matahari ke Bumi \nsekitar 149,6 juta kilometer"
+                            "value" : "Saturnus adalah planet keenam dari Matahari yang dikenal juga sebagai planet bercincin, \ndan merupakan planet terbesar kedua di tata surya setelah Jupiter. \nSetiap 378 hari, Bumi, Saturnus dan Matahari akan berada dalam satu garis lurus. Selain berevolusi, \nSaturnus juga berotasi dalam waktu yang sangat singkat, yaitu 10 jam 40 menit 24 detik, \njarak rata-rata Saturnus ke Bumi adalah 1,351 miliar kilometer"
                           }
                         ],
                         [
@@ -7934,8 +8534,8 @@
                         0,
                         0.50000005960464478,
                         0,
-                        1.5027303695678711,
-                        0.48404777050018311,
+                        1.7300007343292236,
+                        0.48404258489608765,
                         0.0012100000167265534,
                         1
                       ]
@@ -8370,21 +8970,21 @@
               "title" : "saturnScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99028164148330688,
-                  -3.1851229209678422e-07,
-                  0.13907591998577118,
+                  0.99559140205383301,
+                  -3.1106537790037692e-07,
+                  0.093795709311962128,
                   0,
-                  -0.00035427993861958385,
-                  0.99999672174453735,
-                  0.0025247631128877401,
+                  0.015949893742799759,
+                  0.9854360818862915,
+                  -0.16929636895656586,
                   0,
-                  -0.13907547295093536,
-                  -0.0025495737791061401,
-                  0.99027842283248901,
+                  -0.09242963045835495,
+                  0.17004604637622833,
+                  0.98109173774719238,
                   0,
-                  0.81073105335235596,
-                  0.74864304065704346,
-                  5.0009007453918457,
+                  1.3346309661865234,
+                  1.8325324058532715,
+                  6.4981212615966797,
                   1
                 ],
                 "sceneTransform" : [
@@ -8709,7 +9309,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari atau Surya adalah bintang di pusat tata surya.\nBentuknya nyaris bulat dan terdiri dari plasma panas bercampur medan magnet. \nDiameternya sekitar 1.392.684 kilometer, \nkira-kira 109 kali diameter Bumi, dan massanya (sekitar 2×1030 kilogram, \n330.000 kali massa Bumi) mewakili \nkurang lebih 99,86 % massa total tata surya, jarak rata-rata Matahari ke Bumi \nsekitar 149,6 juta kilometer"
+                            "value" : "Uranus adalah planet ketujuh dari Matahari.Atmosfer Uranus utamanya adalah \nhidrogen dan helium, tetapi mengandung lebih banyak unsur \"es\" seperti air, \namonia dan metana, bersama dengan sisa hidrokarbon. \nAtmosfer Uranus merupakan atmosfer planet terdingin di Tata Surya, \ndengan suhu terendah mencapai 49 K (−224 °C; −371 °F), jarak rata-rata Uranus ke Bumi \nadalah 2,880 miliar kilometer"
                           }
                         ],
                         [
@@ -8778,8 +9378,8 @@
                         0,
                         0.50000005960464478,
                         0,
-                        1.5027303695678711,
-                        0.48404777050018311,
+                        1.6093708276748657,
+                        0.48404496908187866,
                         0.0012100000167265534,
                         1
                       ]
@@ -9214,21 +9814,21 @@
               "title" : "uranusScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99979698657989502,
-                  -3.2411480788141489e-07,
-                  -0.020146014168858528,
+                  0.99168378114700317,
+                  -3.2130631666404952e-07,
+                  0.1286979615688324,
                   0,
-                  -0.0064263241365551949,
-                  0.94775390625,
-                  -0.31893759965896606,
+                  0.021323185414075851,
+                  0.98617929220199585,
+                  -0.16430363059043884,
                   0,
-                  0.019093558192253113,
-                  0.31900230050086975,
-                  0.94756156206130981,
+                  -0.12691919505596161,
+                  0.16568151116371155,
+                  0.97797805070877075,
                   0,
-                  1.6330293416976929,
-                  2.1477713584899902,
-                  4.8871679306030273,
+                  1.3014358282089233,
+                  1.6994887590408325,
+                  5.9883332252502441,
                   1
                 ],
                 "sceneTransform" : [
@@ -9553,7 +10153,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Matahari atau Surya adalah bintang di pusat tata surya.\nBentuknya nyaris bulat dan terdiri dari plasma panas bercampur medan magnet. \nDiameternya sekitar 1.392.684 kilometer, \nkira-kira 109 kali diameter Bumi, dan massanya (sekitar 2×1030 kilogram, \n330.000 kali massa Bumi) mewakili \nkurang lebih 99,86 % massa total tata surya, jarak rata-rata Matahari ke Bumi \nsekitar 149,6 juta kilometer"
+                            "value" : "Neptunus merupakan planet kedelapan dari Matahari. Periode rotasi planet ini adalah 16,1 jam, \nsedangkan periode revolusinya adalah 164,8 tahun. Komposisi penyusun planet ini \nmirip dengan Uranus , jarak rata-rata Neptunus ke Bumi adalah 4,4739 miliar kilometer"
                           }
                         ],
                         [
@@ -9622,8 +10222,8 @@
                         0,
                         0.50000005960464478,
                         0,
-                        1.5027303695678711,
-                        0.48404777050018311,
+                        1.6691608428955078,
+                        0.48404490947723389,
                         0.0012100000167265534,
                         1
                       ]

@@ -48,5 +48,55 @@
     "libraryIdentifier" : "bbbca76f2bb7c09857d7d076bfb77af5",
     "format" : "model",
     "displayName" : "Neptune_1_49528.usdz"
+  },
+  {
+    "libraryIdentifier" : "d32ec1065d743ae5182af31c85ba8e00",
+    "format" : "audio",
+    "displayName" : "sound.mp3"
+  },
+  {
+    "libraryIdentifier" : "a60c31c17974bc54e60f46182f5411ea",
+    "format" : "audio",
+    "displayName" : "SoundMatahari.mp3"
+  },
+  {
+    "libraryIdentifier" : "bb7113c48beff0407b7189ae6411ff64",
+    "format" : "audio",
+    "displayName" : "SoundVenus.mp3"
+  },
+  {
+    "libraryIdentifier" : "f6813f5cc376398c28026c9ca387fa14",
+    "format" : "audio",
+    "displayName" : "SoundMerkurius.mp3"
+  },
+  {
+    "libraryIdentifier" : "42228d447b3c3563896cb7d0fc2cdc65",
+    "format" : "audio",
+    "displayName" : "SoundBumi.mp3"
+  },
+  {
+    "libraryIdentifier" : "ac41ff49a00143578871f7b688ef93a2",
+    "format" : "audio",
+    "displayName" : "SoundMars.mp3"
+  },
+  {
+    "libraryIdentifier" : "d5a158f2cac7b49e134841f59c66f4ca",
+    "format" : "audio",
+    "displayName" : "SoundSarturnus.mp3"
+  },
+  {
+    "libraryIdentifier" : "563f905070a0121d3711c578b0444aff",
+    "format" : "audio",
+    "displayName" : "SoundJupiter.mp3"
+  },
+  {
+    "libraryIdentifier" : "cb42b14c3a8d293482a28c7ba6fa5514",
+    "format" : "audio",
+    "displayName" : "SoundNeptunus.mp3"
+  },
+  {
+    "libraryIdentifier" : "348c27198703c31ebc7a293e865a858c",
+    "format" : "audio",
+    "displayName" : "SoundUranus.mp3"
   }
 ]

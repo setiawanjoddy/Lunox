@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2FFBB7E32497C21C0090F915 /* space.skybox in Resources */ = {isa = PBXBuildFile; fileRef = 2FFBB7E22497C21C0090F915 /* space.skybox */; };
 		5A30DE132491C6100097A07D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A30DE122491C6100097A07D /* AppDelegate.swift */; };
 		5A30DE152491C6100097A07D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A30DE142491C6100097A07D /* ViewController.swift */; };
 		5A30DE172491C6100097A07D /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 5A30DE162491C6100097A07D /* Experience.rcproject */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2FFBB7E22497C21C0090F915 /* space.skybox */ = {isa = PBXFileReference; lastKnownFileType = file.skybox; path = space.skybox; sourceTree = "<group>"; };
 		5A30DE0F2491C6100097A07D /* Lunox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lunox.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A30DE122491C6100097A07D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5A30DE142491C6100097A07D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 		5A30DE112491C6100097A07D /* Lunox */ = {
 			isa = PBXGroup;
 			children = (
+				2FFBB7E22497C21C0090F915 /* space.skybox */,
 				5A30DE122491C6100097A07D /* AppDelegate.swift */,
 				5A30DE142491C6100097A07D /* ViewController.swift */,
 				5A30DE162491C6100097A07D /* Experience.rcproject */,
@@ -130,6 +133,7 @@
 			files = (
 				5A30DE272491ED790097A07D /* USDZ-Resources in Resources */,
 				5A30DE1F2491C6100097A07D /* LaunchScreen.storyboard in Resources */,
+				2FFBB7E32497C21C0090F915 /* space.skybox in Resources */,
 				5A30DE1C2491C6100097A07D /* Assets.xcassets in Resources */,
 				5A30DE1A2491C6100097A07D /* Main.storyboard in Resources */,
 			);
@@ -289,7 +293,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 8L4FPJX7XJ;
+				DEVELOPMENT_TEAM = 6X2P3HV7HT;
 				INFOPLIST_FILE = Lunox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -307,7 +311,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 8L4FPJX7XJ;
+				DEVELOPMENT_TEAM = 6X2P3HV7HT;
 				INFOPLIST_FILE = Lunox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

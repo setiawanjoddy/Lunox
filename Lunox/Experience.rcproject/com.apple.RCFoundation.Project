@@ -31,6 +31,86 @@
                                     {
                                       "configurationBox" : {
                                         "configuration" : {
+                                          "audioType" : "play",
+                                          "filePath" : "audio:d32ec1065d743ae5182af31c85ba8e00\/sound.mp3",
+                                          "loops" : false,
+                                          "target" : [
+
+                                          ],
+                                          "volume" : 1
+                                        },
+                                        "name" : {
+                                          "arguments" : "stereoBypass",
+                                          "type" : "soundtrack"
+                                        }
+                                      },
+                                      "identifier" : "E180CC25-4FE2-4691-A468-C5C61EA0A497",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                }
+                              ],
+                              "identifier" : "ADD82701-09AC-4772-AA4D-CA2D9A5097A2",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ],
+                      "color" : [
+                        0.88235294818878174,
+                        0.48235294222831726,
+                        0.68627452850341797,
+                        1
+                      ],
+                      "identifier" : "A7FF9D44-6ADE-428B-9ED7-70B5110FFE38",
+                      "isEnabled" : true,
+                      "isLooping" : false,
+                      "isModal" : false,
+                      "name" : "BackSound",
+                      "triggers" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurationBox" : {
+                                "configuration" : {
+
+                                },
+                                "name" : "start"
+                              },
+                              "identifier" : "3E809C55-C229-4BDC-A8A8-00834A6310F6",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ]
+                    }
+                  ],
+                  "__version" : 3
+                },
+                {
+                  "__content" : [
+                    {
+                      "accessibility" : {
+                        "__content" : [
+                          {
+                            "isEnabled" : false
+                          }
+                        ],
+                        "__version" : 1
+                      },
+                      "actionGroups" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
                                           "axis" : [
                                             0,
                                             1,
@@ -3530,21 +3610,21 @@
               "title" : "solarSystem",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99489188194274902,
-                  -2.0489095220455056e-07,
-                  -0.10094543546438217,
+                  0.99999910593032837,
+                  -3.2130631666404952e-07,
+                  0.0012940764427185059,
                   0,
-                  -0.089409492909908295,
-                  0.46421346068382263,
-                  -0.88119900226593018,
+                  0.00021472013031598181,
+                  0.98617923259735107,
+                  -0.16568134725093842,
                   0,
-                  0.046860359609127045,
-                  0.88572317361831665,
-                  0.46184250712394714,
+                  -0.0012761206598952413,
+                  0.16568152606487274,
+                  0.98617851734161377,
                   0,
-                  0.50711393356323242,
-                  3.8903770446777344,
-                  2.7696418762207031,
+                  2.3319606781005859,
+                  1.5538028478622437,
+                  5.3627524375915527,
                   1
                 ],
                 "sceneTransform" : [
@@ -3650,6 +3730,30 @@
                                         }
                                       },
                                       "identifier" : "83E18A9A-B6FE-4B6A-90C0-FC9D0FC64867",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "audioType" : "play",
+                                          "filePath" : "audio:a60c31c17974bc54e60f46182f5411ea\/SoundMatahari.mp3",
+                                          "loops" : false,
+                                          "target" : [
+
+                                          ],
+                                          "volume" : 1
+                                        },
+                                        "name" : {
+                                          "arguments" : "stereoBypass",
+                                          "type" : "soundtrack"
+                                        }
+                                      },
+                                      "identifier" : "B54D8778-415D-4851-AEA0-FCF7CE70C5C4",
                                       "isEnabled" : true
                                     }
                                   ],
@@ -3801,14 +3905,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.29999999999999999
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "SFProDisplay-Regular"
                           }
                         ],
                         [
@@ -3966,14 +4070,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.40000000000000002
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "ZektonRg-Regular"
                           }
                         ],
                         [
@@ -4230,14 +4334,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "PirulenRg-Regular"
                           }
                         ],
                         [
@@ -4251,7 +4355,7 @@
                           "height",
                           {
                             "typeName" : "Double",
-                            "value" : 0.10000000000000001
+                            "value" : 0.050000000000000003
                           }
                         ],
                         [
@@ -4298,7 +4402,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "<< Tekan aku untuk kembali"
+                            "value" : "<kembali"
                           }
                         ],
                         [
@@ -4351,8 +4455,8 @@
                         0,
                         1,
                         0,
-                        1.2029622793197632,
-                        0.16298384964466095,
+                        0,
+                        0.20000000298023224,
                         2.3147158856318129e-07,
                         1
                       ]
@@ -4374,21 +4478,21 @@
               "title" : "sunScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.98779970407485962,
-                  -2.5285407900810242e-07,
-                  0.15572956204414368,
+                  0.99999910593032837,
+                  -3.2130631666404952e-07,
+                  0.0012940764427185059,
                   0,
-                  0.033794764429330826,
-                  0.97617006301879883,
-                  -0.21435925364494324,
+                  0.00021472013031598181,
+                  0.98617923259735107,
+                  -0.16568134725093842,
                   0,
-                  -0.15201865136623383,
-                  0.21700653433799744,
-                  0.9642605185508728,
+                  -0.0012761206598952413,
+                  0.16568152606487274,
+                  0.98617851734161377,
                   0,
-                  1.7042328119277954,
-                  0.84299325942993164,
-                  3.5778203010559082,
+                  2.3319606781005859,
+                  1.5538028478622437,
+                  5.3627524375915527,
                   1
                 ],
                 "sceneTransform" : [
@@ -4494,6 +4598,32 @@
                                         }
                                       },
                                       "identifier" : "83E18A9A-B6FE-4B6A-90C0-FC9D0FC64867",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "audioType" : "play",
+                                          "filePath" : "audio:f6813f5cc376398c28026c9ca387fa14\/SoundMerkurius.mp3",
+                                          "loops" : false,
+                                          "target" : [
+                                            "4A8AF419-75CE-4981-8D96-D9A7763535B9",
+                                            "C7FCA008-EB4B-4D2D-BD2A-E47B2890B0E5",
+                                            "D6D4E398-1EBC-48E1-A02B-19B2C692ABB4"
+                                          ],
+                                          "volume" : 1
+                                        },
+                                        "name" : {
+                                          "arguments" : "stereoBypass",
+                                          "type" : "soundtrack"
+                                        }
+                                      },
+                                      "identifier" : "3FE24871-F2AC-44BC-BCF3-70EE41703763",
                                       "isEnabled" : true
                                     }
                                   ],
@@ -4645,14 +4775,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.29999999999999999
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "SFProDisplay-Regular"
                           }
                         ],
                         [
@@ -4810,14 +4940,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.40000000000000002
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "ZektonRg-Regular"
                           }
                         ],
                         [
@@ -5074,14 +5204,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "PirulenRg-Regular"
                           }
                         ],
                         [
@@ -5095,7 +5225,7 @@
                           "height",
                           {
                             "typeName" : "Double",
-                            "value" : 0.10000000000000001
+                            "value" : 0.050000000000000003
                           }
                         ],
                         [
@@ -5142,7 +5272,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "<< Tekan aku untuk kembali"
+                            "value" : "<kembali"
                           }
                         ],
                         [
@@ -5195,8 +5325,8 @@
                         0,
                         1,
                         0,
-                        1.2029622793197632,
-                        0.16298384964466095,
+                        0,
+                        0.20000000298023224,
                         2.3147158856318129e-07,
                         1
                       ]
@@ -5218,21 +5348,21 @@
               "title" : "mercuryScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99596518278121948,
-                  -2.2351741790771484e-07,
-                  -0.089740201830863953,
+                  0.99999910593032837,
+                  -3.2130631666404952e-07,
+                  0.0012940764427185059,
                   0,
-                  -0.0097841499373316765,
-                  0.99403840303421021,
-                  -0.10859111696481705,
+                  0.00021472013031598181,
+                  0.98617923259735107,
+                  -0.16568134725093842,
                   0,
-                  0.089205063879489899,
-                  0.10903063416481018,
-                  0.99002760648727417,
+                  -0.0012761206598952413,
+                  0.16568152606487274,
+                  0.98617851734161377,
                   0,
-                  2.5085649490356445,
-                  0.48276737332344055,
-                  3.6767227649688721,
+                  2.3319606781005859,
+                  1.5538028478622437,
+                  5.3627524375915527,
                   1
                 ],
                 "sceneTransform" : [
@@ -5338,6 +5468,30 @@
                                         }
                                       },
                                       "identifier" : "83E18A9A-B6FE-4B6A-90C0-FC9D0FC64867",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "audioType" : "play",
+                                          "filePath" : "audio:bb7113c48beff0407b7189ae6411ff64\/SoundVenus.mp3",
+                                          "loops" : false,
+                                          "target" : [
+
+                                          ],
+                                          "volume" : 1
+                                        },
+                                        "name" : {
+                                          "arguments" : "stereoBypass",
+                                          "type" : "soundtrack"
+                                        }
+                                      },
+                                      "identifier" : "75FB3764-04B2-4320-863D-DA02A2DA6EA9",
                                       "isEnabled" : true
                                     }
                                   ],
@@ -5489,14 +5643,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.29999999999999999
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "SFProDisplay-Regular"
                           }
                         ],
                         [
@@ -5654,14 +5808,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.40000000000000002
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "ZektonRg-Regular"
                           }
                         ],
                         [
@@ -5918,14 +6072,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "PirulenRg-Regular"
                           }
                         ],
                         [
@@ -5939,7 +6093,7 @@
                           "height",
                           {
                             "typeName" : "Double",
-                            "value" : 0.10000000000000001
+                            "value" : 0.050000000000000003
                           }
                         ],
                         [
@@ -5986,7 +6140,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "<< Tekan aku untuk kembali"
+                            "value" : "<kembali"
                           }
                         ],
                         [
@@ -6039,8 +6193,8 @@
                         0,
                         1,
                         0,
-                        1.2029622793197632,
-                        0.16298384964466095,
+                        0,
+                        0.20000000298023224,
                         2.3147158856318129e-07,
                         1
                       ]
@@ -6062,21 +6216,21 @@
               "title" : "venusScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99999666213989258,
-                  -3.2407115213572979e-07,
-                  -0.0025692284107208252,
+                  0.99168378114700317,
+                  -3.2130631666404952e-07,
+                  0.1286979615688324,
                   0,
-                  -0.00052797142416238785,
-                  0.97863084077835083,
-                  -0.20562373101711273,
+                  0.021323185414075851,
+                  0.98617929220199585,
+                  -0.16430363059043884,
                   0,
-                  0.002514395397156477,
-                  0.20562447607517242,
-                  0.97862768173217773,
+                  -0.12691919505596161,
+                  0.16568151116371155,
+                  0.97797805070877075,
                   0,
-                  1.8785421848297119,
-                  1.8029861450195312,
-                  5.3653903007507324,
+                  1.3014358282089233,
+                  1.6994887590408325,
+                  5.9883332252502441,
                   1
                 ],
                 "sceneTransform" : [
@@ -6215,6 +6369,30 @@
                                         }
                                       },
                                       "identifier" : "83E18A9A-B6FE-4B6A-90C0-FC9D0FC64867",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "audioType" : "play",
+                                          "filePath" : "audio:42228d447b3c3563896cb7d0fc2cdc65\/SoundBumi.mp3",
+                                          "loops" : false,
+                                          "target" : [
+
+                                          ],
+                                          "volume" : 1
+                                        },
+                                        "name" : {
+                                          "arguments" : "stereoBypass",
+                                          "type" : "soundtrack"
+                                        }
+                                      },
+                                      "identifier" : "EA6451D5-2B60-44DF-AAA0-813A6A7EB0E4",
                                       "isEnabled" : true
                                     }
                                   ],
@@ -6366,14 +6544,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.29999999999999999
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "SFProDisplay-Regular"
                           }
                         ],
                         [
@@ -6531,14 +6709,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.40000000000000002
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "ZektonRg-Regular"
                           }
                         ],
                         [
@@ -6908,14 +7086,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "PirulenRg-Regular"
                           }
                         ],
                         [
@@ -6929,7 +7107,7 @@
                           "height",
                           {
                             "typeName" : "Double",
-                            "value" : 0.10000000000000001
+                            "value" : 0.050000000000000003
                           }
                         ],
                         [
@@ -6976,7 +7154,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "<< Tekan aku untuk kembali"
+                            "value" : "<kembali"
                           }
                         ],
                         [
@@ -7029,8 +7207,8 @@
                         0,
                         1,
                         0,
-                        1.2029622793197632,
-                        0.16298384964466095,
+                        0,
+                        0.20000000298023224,
                         2.3147158856318129e-07,
                         1
                       ]
@@ -7052,21 +7230,21 @@
               "title" : "earthScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99858415126800537,
-                  -3.2223761081695557e-07,
-                  0.053194142878055573,
+                  0.99168378114700317,
+                  -3.2130631666404952e-07,
+                  0.1286979615688324,
                   0,
-                  0.013239183463156223,
-                  0.96853470802307129,
-                  -0.2485259473323822,
+                  0.021323185414075851,
+                  0.98617929220199585,
+                  -0.16430363059043884,
                   0,
-                  -0.051520302891731262,
-                  0.2488783597946167,
-                  0.96716344356536865,
+                  -0.12691919505596161,
+                  0.16568151116371155,
+                  0.97797805070877075,
                   0,
-                  1.584253191947937,
-                  2.0509269237518311,
-                  5.352118968963623,
+                  1.3014358282089233,
+                  1.6994887590408325,
+                  5.9883332252502441,
                   1
                 ],
                 "sceneTransform" : [
@@ -7172,6 +7350,30 @@
                                         }
                                       },
                                       "identifier" : "83E18A9A-B6FE-4B6A-90C0-FC9D0FC64867",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "audioType" : "play",
+                                          "filePath" : "audio:ac41ff49a00143578871f7b688ef93a2\/SoundMars.mp3",
+                                          "loops" : false,
+                                          "target" : [
+
+                                          ],
+                                          "volume" : 1
+                                        },
+                                        "name" : {
+                                          "arguments" : "stereoBypass",
+                                          "type" : "soundtrack"
+                                        }
+                                      },
+                                      "identifier" : "A35C167B-BB6E-41E5-9854-193004C5955A",
                                       "isEnabled" : true
                                     }
                                   ],
@@ -7323,14 +7525,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.29999999999999999
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "SFProDisplay-Regular"
                           }
                         ],
                         [
@@ -7488,14 +7690,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.40000000000000002
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "ZektonRg-Regular"
                           }
                         ],
                         [
@@ -7752,14 +7954,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "PirulenRg-Regular"
                           }
                         ],
                         [
@@ -7773,7 +7975,7 @@
                           "height",
                           {
                             "typeName" : "Double",
-                            "value" : 0.10000000000000001
+                            "value" : 0.050000000000000003
                           }
                         ],
                         [
@@ -7820,7 +8022,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "<< Tekan aku untuk kembali"
+                            "value" : "<kembali"
                           }
                         ],
                         [
@@ -7873,8 +8075,8 @@
                         0,
                         1,
                         0,
-                        1.2029622793197632,
-                        0.16298384964466095,
+                        0,
+                        0.20000000298023224,
                         2.3147158856318129e-07,
                         1
                       ]
@@ -7896,21 +8098,21 @@
               "title" : "marsScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.98212480545043945,
-                  -3.17115308234861e-07,
-                  0.18823049962520599,
+                  0.99168378114700317,
+                  -3.2130631666404952e-07,
+                  0.1286979615688324,
                   0,
-                  -0.011833562515676022,
-                  0.99802172183990479,
-                  0.061745312064886093,
+                  0.021323185414075851,
+                  0.98617929220199585,
+                  -0.16430363059043884,
                   0,
-                  -0.18785816431045532,
-                  -0.062869049608707428,
-                  0.9801819920539856,
+                  -0.12691919505596161,
+                  0.16568151116371155,
+                  0.97797805070877075,
                   0,
-                  0.70737135410308838,
-                  0.8309704065322876,
-                  5.8068170547485352,
+                  1.3014358282089233,
+                  1.6994887590408325,
+                  5.9883332252502441,
                   1
                 ],
                 "sceneTransform" : [
@@ -8016,6 +8218,30 @@
                                         }
                                       },
                                       "identifier" : "83E18A9A-B6FE-4B6A-90C0-FC9D0FC64867",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "audioType" : "play",
+                                          "filePath" : "audio:563f905070a0121d3711c578b0444aff\/SoundJupiter.mp3",
+                                          "loops" : false,
+                                          "target" : [
+
+                                          ],
+                                          "volume" : 1
+                                        },
+                                        "name" : {
+                                          "arguments" : "stereoBypass",
+                                          "type" : "soundtrack"
+                                        }
+                                      },
+                                      "identifier" : "482097BA-5F3A-4427-BDC8-965923ACA13E",
                                       "isEnabled" : true
                                     }
                                   ],
@@ -8174,7 +8400,7 @@
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "SFProDisplay-Regular"
                           }
                         ],
                         [
@@ -8339,7 +8565,7 @@
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "ZektonRg-Regular"
                           }
                         ],
                         [
@@ -8596,14 +8822,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "PirulenRg-Regular"
                           }
                         ],
                         [
@@ -8617,7 +8843,7 @@
                           "height",
                           {
                             "typeName" : "Double",
-                            "value" : 0.10000000000000001
+                            "value" : 0.050000000000000003
                           }
                         ],
                         [
@@ -8664,7 +8890,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "<< Tekan aku untuk kembali"
+                            "value" : "<kembali"
                           }
                         ],
                         [
@@ -8717,8 +8943,8 @@
                         0,
                         1,
                         0,
-                        1.2029622793197632,
-                        0.16298384964466095,
+                        0,
+                        0.20000000298023224,
                         2.3147158856318129e-07,
                         1
                       ]
@@ -8740,21 +8966,21 @@
               "title" : "jupiterScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99759036302566528,
-                  -3.1851234894020308e-07,
-                  0.069379925727844238,
+                  0.99168378114700317,
+                  -3.2130631666404952e-07,
+                  0.1286979615688324,
                   0,
-                  0.019679712131619453,
-                  0.95892870426177979,
-                  -0.28296345472335815,
+                  0.021323185414075851,
+                  0.98617929220199585,
+                  -0.16430363059043884,
                   0,
-                  -0.066530302166938782,
-                  0.28364700078964233,
-                  0.95661807060241699,
+                  -0.12691919505596161,
+                  0.16568151116371155,
+                  0.97797805070877075,
                   0,
-                  1.5033324956893921,
-                  2.302647590637207,
-                  5.4731431007385254,
+                  1.3014358282089233,
+                  1.6994887590408325,
+                  5.9883332252502441,
                   1
                 ],
                 "sceneTransform" : [
@@ -8860,6 +9086,30 @@
                                         }
                                       },
                                       "identifier" : "83E18A9A-B6FE-4B6A-90C0-FC9D0FC64867",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "audioType" : "play",
+                                          "filePath" : "audio:d5a158f2cac7b49e134841f59c66f4ca\/SoundSarturnus.mp3",
+                                          "loops" : false,
+                                          "target" : [
+
+                                          ],
+                                          "volume" : 1
+                                        },
+                                        "name" : {
+                                          "arguments" : "stereoBypass",
+                                          "type" : "soundtrack"
+                                        }
+                                      },
+                                      "identifier" : "6ADC85F6-11D3-4C1E-9540-2C6CD21646FE",
                                       "isEnabled" : true
                                     }
                                   ],
@@ -9011,14 +9261,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.29999999999999999
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "SFProDisplay-Regular"
                           }
                         ],
                         [
@@ -9176,14 +9426,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.40000000000000002
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "ZektonRg-Regular"
                           }
                         ],
                         [
@@ -9244,7 +9494,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Saturn"
+                            "value" : "Saturnus"
                           }
                         ],
                         [
@@ -9440,14 +9690,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "PirulenRg-Regular"
                           }
                         ],
                         [
@@ -9461,7 +9711,7 @@
                           "height",
                           {
                             "typeName" : "Double",
-                            "value" : 0.10000000000000001
+                            "value" : 0.050000000000000003
                           }
                         ],
                         [
@@ -9508,7 +9758,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "<< Tekan aku untuk kembali"
+                            "value" : "<kembali"
                           }
                         ],
                         [
@@ -9561,8 +9811,8 @@
                         0,
                         1,
                         0,
-                        1.2029622793197632,
-                        0.16298384964466095,
+                        0,
+                        0.20000000298023224,
                         2.3147158856318129e-07,
                         1
                       ]
@@ -9584,21 +9834,21 @@
               "title" : "saturnScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99559140205383301,
-                  -3.1106537790037692e-07,
-                  0.093795709311962128,
+                  0.99168378114700317,
+                  -3.2130631666404952e-07,
+                  0.1286979615688324,
                   0,
-                  0.015949893742799759,
-                  0.9854360818862915,
-                  -0.16929636895656586,
+                  0.021323185414075851,
+                  0.98617929220199585,
+                  -0.16430363059043884,
                   0,
-                  -0.09242963045835495,
-                  0.17004604637622833,
-                  0.98109173774719238,
+                  -0.12691919505596161,
+                  0.16568151116371155,
+                  0.97797805070877075,
                   0,
-                  1.3346309661865234,
-                  1.8325324058532715,
-                  6.4981212615966797,
+                  1.3014358282089233,
+                  1.6994887590408325,
+                  5.9883332252502441,
                   1
                 ],
                 "sceneTransform" : [
@@ -9704,6 +9954,30 @@
                                         }
                                       },
                                       "identifier" : "83E18A9A-B6FE-4B6A-90C0-FC9D0FC64867",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "audioType" : "play",
+                                          "filePath" : "audio:348c27198703c31ebc7a293e865a858c\/SoundUranus.mp3",
+                                          "loops" : false,
+                                          "target" : [
+
+                                          ],
+                                          "volume" : 1
+                                        },
+                                        "name" : {
+                                          "arguments" : "stereoBypass",
+                                          "type" : "soundtrack"
+                                        }
+                                      },
+                                      "identifier" : "E97AC6C4-B653-4684-854A-0B1AEEB4F2B0",
                                       "isEnabled" : true
                                     }
                                   ],
@@ -9855,14 +10129,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.29999999999999999
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "SFProDisplay-Regular"
                           }
                         ],
                         [
@@ -10020,14 +10294,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.40000000000000002
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "ZektonRg-Regular"
                           }
                         ],
                         [
@@ -10284,14 +10558,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "PirulenRg-Regular"
                           }
                         ],
                         [
@@ -10305,7 +10579,7 @@
                           "height",
                           {
                             "typeName" : "Double",
-                            "value" : 0.10000000000000001
+                            "value" : 0.050000000000000003
                           }
                         ],
                         [
@@ -10352,7 +10626,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "<< Tekan aku untuk kembali"
+                            "value" : "<kembali"
                           }
                         ],
                         [
@@ -10405,8 +10679,8 @@
                         0,
                         1,
                         0,
-                        1.2029622793197632,
-                        0.16298384964466095,
+                        0,
+                        0.20000000298023224,
                         2.3147158856318129e-07,
                         1
                       ]
@@ -10548,6 +10822,30 @@
                                         }
                                       },
                                       "identifier" : "83E18A9A-B6FE-4B6A-90C0-FC9D0FC64867",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "audioType" : "play",
+                                          "filePath" : "audio:cb42b14c3a8d293482a28c7ba6fa5514\/SoundNeptunus.mp3",
+                                          "loops" : false,
+                                          "target" : [
+
+                                          ],
+                                          "volume" : 1
+                                        },
+                                        "name" : {
+                                          "arguments" : "stereoBypass",
+                                          "type" : "soundtrack"
+                                        }
+                                      },
+                                      "identifier" : "8A7CD8FE-B29C-4991-AF2B-2FD9B944E437",
                                       "isEnabled" : true
                                     }
                                   ],
@@ -10699,14 +10997,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.29999999999999999
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "SFProDisplay-Regular"
                           }
                         ],
                         [
@@ -10864,14 +11162,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0.40000000000000002
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "ZektonRg-Regular"
                           }
                         ],
                         [
@@ -10932,7 +11230,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Neptune\n"
+                            "value" : "Neptunus\n"
                           }
                         ],
                         [
@@ -11128,14 +11426,14 @@
                           "depth",
                           {
                             "typeName" : "Double",
-                            "value" : 0.22
+                            "value" : 0
                           }
                         ],
                         [
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "Helvetica"
+                            "value" : "PirulenRg-Regular"
                           }
                         ],
                         [
@@ -11149,7 +11447,7 @@
                           "height",
                           {
                             "typeName" : "Double",
-                            "value" : 0.10000000000000001
+                            "value" : 0.050000000000000003
                           }
                         ],
                         [
@@ -11196,7 +11494,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "<< Tekan aku untuk kembali"
+                            "value" : "< kembali"
                           }
                         ],
                         [
@@ -11249,8 +11547,8 @@
                         0,
                         1,
                         0,
-                        1.2029622793197632,
-                        0.16298384964466095,
+                        0,
+                        0.20000000298023224,
                         2.3147158856318129e-07,
                         1
                       ]
@@ -11272,21 +11570,21 @@
               "title" : "neptuneScene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99509996175765991,
-                  -3.2386745374424208e-07,
-                  0.09887358546257019,
+                  0.99168378114700317,
+                  -3.2130631666404952e-07,
+                  0.1286979615688324,
                   0,
-                  0.029300250113010406,
-                  0.95508325099945068,
-                  -0.29488539695739746,
+                  0.021323185414075851,
+                  0.98617929220199585,
+                  -0.16430363059043884,
                   0,
-                  -0.09443240612745285,
-                  0.29633745551109314,
-                  0.95040333271026611,
+                  -0.12691919505596161,
+                  0.16568151116371155,
+                  0.97797805070877075,
                   0,
-                  1.0685945749282837,
-                  1.5499184131622314,
-                  3.7014987468719482,
+                  1.3014358282089233,
+                  1.6994887590408325,
+                  5.9883332252502441,
                   1
                 ],
                 "sceneTransform" : [

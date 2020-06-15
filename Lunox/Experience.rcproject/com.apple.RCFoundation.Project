@@ -36,7 +36,7 @@
                                             1,
                                             0
                                           ],
-                                          "direction" : "clockwise",
+                                          "direction" : "counterclockwise",
                                           "duration" : 3600,
                                           "iterations" : 30,
                                           "target" : [
@@ -68,7 +68,7 @@
                         1
                       ],
                       "identifier" : "34665F38-8CF8-4E2C-A097-6DD365D5DD97",
-                      "isEnabled" : true,
+                      "isEnabled" : false,
                       "isLooping" : false,
                       "isModal" : false,
                       "name" : "Sun",
@@ -183,7 +183,7 @@
                         1
                       ],
                       "identifier" : "873C4CF8-4C43-4A5B-8DB0-BFB71907288F",
-                      "isEnabled" : true,
+                      "isEnabled" : false,
                       "isLooping" : false,
                       "isModal" : false,
                       "name" : "Mercury",
@@ -298,7 +298,7 @@
                         1
                       ],
                       "identifier" : "5CE90EAD-B729-44CD-9A84-A9DFE875B648",
-                      "isEnabled" : true,
+                      "isEnabled" : false,
                       "isLooping" : false,
                       "isModal" : false,
                       "name" : "Venus",
@@ -472,7 +472,7 @@
                         1
                       ],
                       "identifier" : "98381CE1-31E4-4C54-87A3-E49997C3A624",
-                      "isEnabled" : true,
+                      "isEnabled" : false,
                       "isLooping" : true,
                       "isModal" : false,
                       "name" : "Earth",
@@ -587,7 +587,7 @@
                         1
                       ],
                       "identifier" : "91A090F2-00E9-4549-9A3B-6D27E59A07C4",
-                      "isEnabled" : true,
+                      "isEnabled" : false,
                       "isLooping" : false,
                       "isModal" : false,
                       "name" : "Mars",
@@ -702,7 +702,7 @@
                         1
                       ],
                       "identifier" : "FA050BAA-D59A-404F-B365-EFCC31E01CD5",
-                      "isEnabled" : true,
+                      "isEnabled" : false,
                       "isLooping" : false,
                       "isModal" : false,
                       "name" : "Jupiter",
@@ -817,7 +817,7 @@
                         1
                       ],
                       "identifier" : "BFA92D5D-F628-46F2-983B-7C0BD90564A4",
-                      "isEnabled" : true,
+                      "isEnabled" : false,
                       "isLooping" : false,
                       "isModal" : false,
                       "name" : "Saturn",
@@ -932,7 +932,7 @@
                         1
                       ],
                       "identifier" : "066463A3-CCB3-428E-AD2E-4B7A326E41F0",
-                      "isEnabled" : true,
+                      "isEnabled" : false,
                       "isLooping" : false,
                       "isModal" : false,
                       "name" : "Uranus",
@@ -1047,7 +1047,7 @@
                         1
                       ],
                       "identifier" : "05689961-F30E-4AB9-8A3C-808381264360",
-                      "isEnabled" : true,
+                      "isEnabled" : false,
                       "isLooping" : false,
                       "isModal" : false,
                       "name" : "Neptune",
@@ -1062,6 +1062,620 @@
                                 "name" : "start"
                               },
                               "identifier" : "E136620C-12C0-4590-B9FD-D1DE44418C37",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ]
+                    }
+                  ],
+                  "__version" : 3
+                },
+                {
+                  "__content" : [
+                    {
+                      "accessibility" : {
+                        "__content" : [
+                          {
+                            "isEnabled" : false
+                          }
+                        ],
+                        "__version" : 1
+                      },
+                      "actionGroups" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurations" : [
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "axis" : [
+                                            0,
+                                            1,
+                                            0
+                                          ],
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "iterations" : 30,
+                                          "target" : [
+                                            "3221C7A2-D878-43CC-9DF1-7EF889180822"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "spin"
+                                        }
+                                      },
+                                      "identifier" : "942D5D1A-CBD4-4371-9AAC-9779534F4377",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "axis" : [
+                                            0,
+                                            1,
+                                            0
+                                          ],
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "iterations" : 300,
+                                          "target" : [
+                                            "9EFDB153-E457-4D6B-94C6-9CA8DC4A906C"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "spin"
+                                        }
+                                      },
+                                      "identifier" : "14D4F8C7-F166-49CD-938C-B0B9C349243F",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            0,
+                                            -1,
+                                            0
+                                          ],
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
+                                          "respectPhysics" : false,
+                                          "rotations" : 50,
+                                          "target" : [
+                                            "9EFDB153-E457-4D6B-94C6-9CA8DC4A906C"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "F490B1F2-F22B-4D5F-A76B-B7979B91799F",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "axis" : [
+                                            0,
+                                            1,
+                                            0
+                                          ],
+                                          "direction" : "clockwise",
+                                          "duration" : 3600,
+                                          "iterations" : 380,
+                                          "target" : [
+                                            "88F5C368-B5C4-41CF-BA3A-2FA608A4F1F0"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "spin"
+                                        }
+                                      },
+                                      "identifier" : "B119CDBC-ADCF-4BED-B7D4-6E634C24A70D",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            0,
+                                            -1,
+                                            0
+                                          ],
+                                          "orientToPath" : false,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
+                                          "respectPhysics" : false,
+                                          "rotations" : 43,
+                                          "target" : [
+                                            "88F5C368-B5C4-41CF-BA3A-2FA608A4F1F0"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "42020531-7601-462A-84C0-4EAA96362E66",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "axis" : [
+                                            0,
+                                            1,
+                                            0
+                                          ],
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "iterations" : 100,
+                                          "target" : [
+                                            "14CF3300-C4CE-4008-AFE3-FA85AD840A11"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "spin"
+                                        }
+                                      },
+                                      "identifier" : "B5BC7B1E-0DA9-4D3A-AA4A-B45C0C3191F5",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            2.6300616809749044e-05,
+                                            -0.99819189310073853,
+                                            -0.060107875615358353
+                                          ],
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
+                                          "respectPhysics" : false,
+                                          "rotations" : 38,
+                                          "target" : [
+                                            "14CF3300-C4CE-4008-AFE3-FA85AD840A11"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "FB9FEE61-ECEA-42BB-A5B4-DD141A5BAE42",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "axis" : [
+                                            0,
+                                            1,
+                                            0
+                                          ],
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "iterations" : 300,
+                                          "target" : [
+                                            "FF962289-EDBB-4CB8-A489-0FDE33FDC785"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "spin"
+                                        }
+                                      },
+                                      "identifier" : "9E20C644-C987-4846-9B1D-BAA996C674B1",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            -8.6391031800303608e-05,
+                                            -0.98900425434112549,
+                                            0.14788670837879181
+                                          ],
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "14CF3300-C4CE-4008-AFE3-FA85AD840A11",
+                                          "respectPhysics" : false,
+                                          "rotations" : 200,
+                                          "target" : [
+                                            "FF962289-EDBB-4CB8-A489-0FDE33FDC785"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "7629DEB0-8AE7-4E56-A6D6-707106F67688",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "axis" : [
+                                            0,
+                                            1,
+                                            0
+                                          ],
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "iterations" : 180,
+                                          "target" : [
+                                            "0E9DB5D1-F2DA-46BA-9465-5FB6C987E215"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "spin"
+                                        }
+                                      },
+                                      "identifier" : "68D4FD50-4F91-4300-BE40-7CB5DEC582C0",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            0,
+                                            -1,
+                                            0
+                                          ],
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
+                                          "respectPhysics" : false,
+                                          "rotations" : 28,
+                                          "target" : [
+                                            "0E9DB5D1-F2DA-46BA-9465-5FB6C987E215"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "A0E0B952-1E93-44FB-BB60-BD794B44EB83",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "axis" : [
+                                            0,
+                                            1,
+                                            0
+                                          ],
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "iterations" : 150,
+                                          "target" : [
+                                            "5FAAA183-48B3-421E-A1AF-C1A59CFB9F53"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "spin"
+                                        }
+                                      },
+                                      "identifier" : "5D939E3F-30D4-4F2D-BD79-0016C953A519",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            0,
+                                            -1,
+                                            0
+                                          ],
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
+                                          "respectPhysics" : false,
+                                          "rotations" : 12,
+                                          "target" : [
+                                            "5FAAA183-48B3-421E-A1AF-C1A59CFB9F53"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "1D2A313F-09A8-4C4F-84EC-293ACD0BB42B",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "axis" : [
+                                            0,
+                                            1,
+                                            0
+                                          ],
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "iterations" : 130,
+                                          "target" : [
+                                            "76FF5457-6889-4816-9583-CE4359F74BD4"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "spin"
+                                        }
+                                      },
+                                      "identifier" : "F9BE27AB-FE6A-4071-A5C8-7EA2946B2F28",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            0,
+                                            -1,
+                                            0
+                                          ],
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
+                                          "respectPhysics" : false,
+                                          "rotations" : 6,
+                                          "target" : [
+                                            "76FF5457-6889-4816-9583-CE4359F74BD4"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "185DEF77-379C-4A02-8972-322096F40A29",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "axis" : [
+                                            0,
+                                            1,
+                                            0
+                                          ],
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "iterations" : 100,
+                                          "target" : [
+                                            "7A3A9C9F-0EC8-4147-ADA2-E5415E739E06"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "spin"
+                                        }
+                                      },
+                                      "identifier" : "7C71688F-B384-4BEA-A5AD-3F93D3397C91",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            0,
+                                            -1,
+                                            0
+                                          ],
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
+                                          "respectPhysics" : false,
+                                          "rotations" : 3,
+                                          "target" : [
+                                            "7A3A9C9F-0EC8-4147-ADA2-E5415E739E06"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "5767D333-8D59-4DFB-B551-6866643D7153",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "axis" : [
+                                            0,
+                                            1,
+                                            0
+                                          ],
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "iterations" : 80,
+                                          "target" : [
+                                            "349BBE1B-21EF-4F46-AF82-2334F3B20289"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "spin"
+                                        }
+                                      },
+                                      "identifier" : "343971B5-0295-4C0F-8B14-FCA8F1FEFEDF",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                },
+                                {
+                                  "__content" : [
+                                    {
+                                      "configurationBox" : {
+                                        "configuration" : {
+                                          "angularCoefficient" : 1,
+                                          "direction" : "counterclockwise",
+                                          "duration" : 3600,
+                                          "linearCoefficient" : 1,
+                                          "orbitalAxis" : [
+                                            0,
+                                            -1,
+                                            0
+                                          ],
+                                          "orientToPath" : true,
+                                          "pivotTarget" : "3221C7A2-D878-43CC-9DF1-7EF889180822",
+                                          "respectPhysics" : false,
+                                          "rotations" : 1,
+                                          "target" : [
+                                            "349BBE1B-21EF-4F46-AF82-2334F3B20289"
+                                          ]
+                                        },
+                                        "name" : {
+                                          "type" : "orbitEntity"
+                                        }
+                                      },
+                                      "identifier" : "3BA0D25F-3EBB-4014-8F48-EE12EE0482E5",
+                                      "isEnabled" : true
+                                    }
+                                  ],
+                                  "__version" : 1
+                                }
+                              ],
+                              "identifier" : "846E302A-D90E-4B1E-8D6F-0D53FD6C883C",
+                              "isEnabled" : true
+                            }
+                          ],
+                          "__version" : 1
+                        }
+                      ],
+                      "color" : [
+                        0.64705884456634521,
+                        0.32156863808631897,
+                        0.76470589637756348,
+                        1
+                      ],
+                      "identifier" : "37191054-AC1C-4E12-9241-3B6A6F57B8FF",
+                      "isEnabled" : true,
+                      "isLooping" : false,
+                      "isModal" : false,
+                      "name" : "sunAndPlanet",
+                      "triggers" : [
+                        {
+                          "__content" : [
+                            {
+                              "configurationBox" : {
+                                "configuration" : {
+
+                                },
+                                "name" : "start"
+                              },
+                              "identifier" : "C4630E88-D549-4580-BC60-1F6E3BD40512",
                               "isEnabled" : true
                             }
                           ],
@@ -2916,21 +3530,21 @@
               "title" : "solarSystem",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.99596518278121948,
-                  -2.2351741790771484e-07,
-                  -0.089740201830863953,
+                  0.99489188194274902,
+                  -2.0489095220455056e-07,
+                  -0.10094543546438217,
                   0,
-                  -0.0097841499373316765,
-                  0.99403840303421021,
-                  -0.10859111696481705,
+                  -0.089409492909908295,
+                  0.46421346068382263,
+                  -0.88119900226593018,
                   0,
-                  0.089205063879489899,
-                  0.10903063416481018,
-                  0.99002760648727417,
+                  0.046860359609127045,
+                  0.88572317361831665,
+                  0.46184250712394714,
                   0,
-                  2.5085649490356445,
-                  0.48276737332344055,
-                  3.6767227649688721,
+                  0.50711393356323242,
+                  3.8903770446777344,
+                  2.7696418762207031,
                   1
                 ],
                 "sceneTransform" : [

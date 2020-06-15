@@ -16,16 +16,12 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
-//        let arConfiguration = ARWorldTrackingConfiguration()
-//        arConfiguration.planeDetection = .horizontal
-//        arView.session.run(arConfiguration)
         
         let solarSystemAnchor  = try! Experience.loadSolarSystem()
         
+        arView.environment.background = .skybox(try! EnvironmentResource.load(named: "space"))
+        
         arView.scene.anchors.append(solarSystemAnchor)
-        arView.environment.background = .color(.black)
-        //.skybox(try! EnvironmentResource.load(named: ""))
         
     }
 }

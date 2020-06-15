@@ -8,6 +8,7 @@
 
 import UIKit
 import RealityKit
+import ARKit
 
 class ViewController: UIViewController {
     
@@ -15,10 +16,16 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+
+//        let arConfiguration = ARWorldTrackingConfiguration()
+//        arConfiguration.planeDetection = .horizontal
+//        arView.session.run(arConfiguration)
         
         let solarSystemAnchor  = try! Experience.loadSolarSystem()
         
         arView.scene.anchors.append(solarSystemAnchor)
+        arView.environment.background = .color(.black)
+        //.skybox(try! EnvironmentResource.load(named: ""))
         
     }
 }

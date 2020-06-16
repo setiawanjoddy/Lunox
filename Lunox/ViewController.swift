@@ -14,14 +14,32 @@ class ViewController: UIViewController {
     
     @IBOutlet var arView: ARView!
     
+    var solarSystemAnchor: Experience.SolarSystem!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        let solarSystemAnchor  = try! Experience.loadSolarSystem()
+
+        solarSystemAnchor  = try! Experience.loadSolarSystem()
         
         arView.environment.background = .skybox(try! EnvironmentResource.load(named: "space"))
         
         arView.scene.anchors.append(solarSystemAnchor)
         
+        solarSystemAnchor.notifications.startSpinning.post()
+        
+        solarSystemAnchor.actions.backToFirstPage.onAction = tapSun(_:)
+        
     }
+    
+    func tapSun(_ entity: Entity?) {
+        print("test")
+        
+        solarSystemAnchor.notifications.startSpinning.post()
+        
+    }
+    
+//    func backButtonTap(_ entity: Entity?) {
+//        solarSystemAnchor.notifications.startSpinning.post()
+//    }
+//
 }
